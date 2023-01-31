@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "azure_func_refreshtoken": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7030",
+      "launchBrowser": false
+    }
+  }
+}
